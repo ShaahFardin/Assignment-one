@@ -81,7 +81,8 @@ h1{
     height: 50px;
     margin: auto;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 25px;
+    margin-left: 40px;
 }
 
 
@@ -92,7 +93,7 @@ h1{
     width: 80%;
     margin: auto;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 150px;
 }
 .doonation-plan h1{
     font-size: 60px;
@@ -140,6 +141,7 @@ p{
 }
 .review-row{
     display: flex;
+    margin: 50px;
 }
 .review-col{
     width: 40%;
@@ -172,7 +174,7 @@ p{
 .email-sub{
     width: 50%;
     display: flex;
-    margin: 100px 150px 00px 200px;
+    margin: 60px 150px 00px 180px;
     justify-content: space-between;
     background-color: wheat;
     padding: 100px;
@@ -185,8 +187,7 @@ p{
     text-align: center;
 }
 #subscribe-button{
-    margin-left: -210px;
-    margin-top: 49px ;
+    margin-top: 24px ;
 }
 
 /*----Footer---*/
@@ -203,4 +204,5 @@ p{
 .footer h1{
     font-family: 'Courier New', Courier, monospace;
     padding: 30px;
+    color: red;
 }
